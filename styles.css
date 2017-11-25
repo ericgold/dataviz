@@ -14,12 +14,15 @@ header, footer, main {
   align-items: center;
 }
 
-header {
-  height: 8rem;
-  background-color: #ccc;
+header, footer {
+  background-color: #555;
   color: ghostwhite;
   padding: 1rem;
   margin: 0;
+}
+
+header {
+  height: 8rem;
 }
 
 header h1 {
@@ -28,4 +31,19 @@ header h1 {
 
 main {
   min-height: calc(100vh - 12rem);
+  padding: 2rem;
 }
+
+main > section {
+  background-color: #ddd;
+  color: #555;
+  width: 100%;
+  height: auto;
+  margin: 1rem auto;
+  padding: 1rem;
+}
+
+footer {
+  height: 4rem;
+}
+
