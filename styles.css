@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Optima;
+  margin: 0;
+}
+
+header, footer, main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+header {
+  height: 8rem;
+  background-color: #ccc;
+  color: ghostwhite;
+  padding: 1rem;
+  margin: 0;
+}
+
+header h1 {
+  margin: 1rem;
+}
+
+main {
+  min-height: calc(100vh - 12rem);
+}
