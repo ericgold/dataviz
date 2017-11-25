@@ -43,6 +43,18 @@ main > section {
   padding: 1rem;
 }
 
+main > section a {
+  color: #555;
+}
+
+main > section a:hover {
+  color: black;
+}
+
+main > section a:visited {
+  color: deeppink;
+}
+
 footer {
   height: 4rem;
 }
