@@ -1,0 +1,32 @@
+president,startdate,enddate,pollster,grade,samplesize,weight,influence,approve,disapprove,,,
+Donald Trump,2017-09-27T00:00:00Z,2017-10-01T00:00:00Z,Ipsos,A-,1728,0.1989185,0,38.6,57,37.96986,56.65813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-09-28T00:00:00Z,2017-10-02T00:00:00Z,National Opinion Research Center,,1150,1.339724,0,32,67,33.10891,63.43263,http://www.apnorc.org/PDFs/AP-NORC%20September%202017/AP%20Custom%20Poll%20Topline%20SEPTEMBER_presidency.pdf
+Donald Trump,2017-09-29T00:00:00Z,2017-10-03T00:00:00Z,Ipsos,A-,1661,0.1972843,0,37.3,57.8,36.66986,57.45813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-09-29T00:00:00Z,2017-10-04T00:00:00Z,SurveyMonkey,C-,15120,0.4718593,0.0031912,41,57,38.57105,55.83303,https://drive.google.com/file/d/0BztOs71zt1WpVDRiLWRDWnZrMHM/view
+Donald Trump,2017-10-01T00:00:00Z,2017-10-05T00:00:00Z,Ipsos,A-,1516,0.1860255,0.0026534,35.6,58.7,34.96986,58.35813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-02T00:00:00Z,2017-10-06T00:00:00Z,Ipsos,A-,1397,0.1743195,0.0036739,36,58.8,35.36986,58.45813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-03T00:00:00Z,2017-10-07T00:00:00Z,Ipsos,A-,1507,0.191187,0.0052961,35.2,59.3,34.56986,58.95813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-09-29T00:00:00Z,2017-10-08T00:00:00Z,IBD/TIPP,A-,887,1.486985,0.0479673,33,61,34.45388,60.00936,http://www.investors.com/politics/trumps-tax-plan-gets-high-marks-as-his-approval-rating-stumbles-ibdtipp-poll/
+Donald Trump,2017-10-05T00:00:00Z,2017-10-09T00:00:00Z,Ipsos,A-,1529,0.1989741,0.0081109,36,58.8,35.36986,58.45813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-06T00:00:00Z,2017-10-10T00:00:00Z,Ipsos,A-,1166,0.1529506,0.0072458,36.9,58.6,36.26986,58.25813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-05T00:00:00Z,2017-10-11T00:00:00Z,SurveyMonkey,C-,16203,0.5051506,0.0243129,41,57,38.57105,55.83303,https://drive.google.com/file/d/0BztOs71zt1WpM29BUW1JeHd3RkU/view
+Donald Trump,2017-10-08T00:00:00Z,2017-10-12T00:00:00Z,Ipsos,A-,1611,0.2113856,0.012991,35.9,59.3,35.26986,58.95813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-09T00:00:00Z,2017-10-13T00:00:00Z,Ipsos,A-,1611,0.2102176,0.0145154,36.7,57.7,36.06986,57.35813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-10T00:00:00Z,2017-10-14T00:00:00Z,Ipsos,A-,1581,0.2050555,0.0186335,37.5,57.9,36.86986,57.55813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-11T00:00:00Z,2017-10-15T00:00:00Z,Ipsos,A-,1575,0.2030247,0.02296,37.4,57.9,36.76986,57.55813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-12T00:00:00Z,2017-10-16T00:00:00Z,Ipsos,A-,1637,0.2098054,0.028477,37.2,58.5,36.56986,58.15813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-13T00:00:00Z,2017-10-17T00:00:00Z,Ipsos,A-,1678,0.2140111,0.0339836,37.8,58.1,37.16986,57.75813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-12T00:00:00Z,2017-10-18T00:00:00Z,SurveyMonkey,C-,14717,0.5001945,0.0752857,39,59,36.57105,57.83303,https://drive.google.com/file/d/0BztOs71zt1WpMTVZLUkwRW5NNzA/view
+Donald Trump,2017-10-15T00:00:00Z,2017-10-19T00:00:00Z,Ipsos,A-,1701,0.2152614,0.0443585,36.7,59,36.06986,58.65813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-16T00:00:00Z,2017-10-20T00:00:00Z,Ipsos,A-,1969,0.2484202,0.0572089,36.7,58.2,36.06986,57.85813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-17T00:00:00Z,2017-10-21T00:00:00Z,Ipsos,A-,2109,0.2656358,0.067679,36.1,58.9,35.46986,58.55813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-18T00:00:00Z,2017-10-22T00:00:00Z,Ipsos,A-,2343,0.2953415,0.0824736,35.5,59.4,34.86986,59.05813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-19T00:00:00Z,2017-10-23T00:00:00Z,Ipsos,A-,2318,0.2907188,0.0891015,35,59.9,34.36986,59.55813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-20T00:00:00Z,2017-10-24T00:00:00Z,Ipsos,A-,2355,0.2954213,0.1102585,34.6,60.5,33.96986,60.15813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-19T00:00:00Z,2017-10-25T00:00:00Z,SurveyMonkey,C-,13572,0.5198541,0.1824647,39,59,36.57105,57.83303,https://drive.google.com/file/d/0BztOs71zt1WpaGVOVzRwbDNDUUU/view
+Donald Trump,2017-10-22T00:00:00Z,2017-10-26T00:00:00Z,Ipsos,A-,1870,0.2381094,0.1197471,35.1,59.7,34.46986,59.35813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-23T00:00:00Z,2017-10-27T00:00:00Z,Ipsos,A-,1750,0.2257892,0.1278952,36.4,58.5,35.76986,58.15813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-24T00:00:00Z,2017-10-28T00:00:00Z,Ipsos,A-,1735,0.227509,0.1431726,37.3,57.8,36.66986,57.45813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-25T00:00:00Z,2017-10-29T00:00:00Z,Ipsos,A-,1743,0.2329761,0.1611376,36.4,58.7,35.76986,58.35813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-26T00:00:00Z,2017-10-30T00:00:00Z,Ipsos,A-,1768,0.2416262,0.1820868,36.2,59.2,35.56986,58.85813,http://polling.reuters.com/#poll/CP3_2/
+Donald Trump,2017-10-27T00:00:00Z,2017-10-31T00:00:00Z,Ipsos,A-,1802,0.2526352,0.2059604,36.2,60,35.56986,59.65813,http://polling.reuters.com/#poll/CP3_2/
